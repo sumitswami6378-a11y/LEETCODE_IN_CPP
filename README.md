@@ -50,4 +50,17 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
