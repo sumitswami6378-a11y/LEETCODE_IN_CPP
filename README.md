@@ -51,6 +51,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
+| [2469-convert-the-temperature](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
 | ------- |
