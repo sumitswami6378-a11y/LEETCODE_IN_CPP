@@ -17,9 +17,11 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -64,4 +66,20 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
