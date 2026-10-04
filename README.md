@@ -13,6 +13,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0136-single-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0260-single-number-iii) |
+| [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1480-running-sum-of-1d-array) |
@@ -114,9 +115,31 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
