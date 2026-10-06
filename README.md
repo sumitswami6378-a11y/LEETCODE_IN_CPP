@@ -7,6 +7,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0074-search-a-2d-matrix) |
@@ -147,4 +148,8 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
