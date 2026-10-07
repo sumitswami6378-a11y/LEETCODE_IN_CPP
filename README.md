@@ -6,6 +6,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
@@ -59,6 +60,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -131,6 +133,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
