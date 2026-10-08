@@ -65,12 +65,14 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0074-search-a-2d-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0441-arranging-coins](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0441-arranging-coins) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0326-power-of-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
 | [2469-convert-the-temperature](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
