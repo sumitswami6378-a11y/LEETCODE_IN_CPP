@@ -22,6 +22,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0342-power-of-four](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
@@ -162,4 +164,16 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0046-permutations) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
