@@ -34,6 +34,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1108-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -75,6 +76,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0342-power-of-four](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1952-three-divisors](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2413-smallest-even-multiple) |
@@ -176,10 +178,12 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
