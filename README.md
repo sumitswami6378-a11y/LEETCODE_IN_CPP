@@ -19,6 +19,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0260-single-number-iii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0941-valid-mountain-array) |
@@ -143,6 +144,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0141-linked-list-cycle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Linked List
@@ -163,6 +165,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
