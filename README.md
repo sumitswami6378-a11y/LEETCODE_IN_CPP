@@ -104,6 +104,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [2413-smallest-even-multiple](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2652-sum-multiples](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
