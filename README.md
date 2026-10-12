@@ -13,6 +13,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0054-spiral-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -111,6 +112,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -249,4 +251,8 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
