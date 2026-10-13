@@ -9,6 +9,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0001-two-sum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0054-spiral-matrix) |
@@ -42,6 +43,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
