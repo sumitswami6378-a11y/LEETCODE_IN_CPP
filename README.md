@@ -6,6 +6,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0046-permutations) |
@@ -145,6 +146,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
