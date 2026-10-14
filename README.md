@@ -10,6 +10,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0004-median-of-two-sorted-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0054-spiral-matrix) |
@@ -91,6 +92,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
