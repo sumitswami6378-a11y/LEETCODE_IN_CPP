@@ -52,6 +52,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -171,6 +172,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0148-sort-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0328-odd-even-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
