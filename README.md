@@ -60,6 +60,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1108-defanging-an-ip-address) |
@@ -67,6 +68,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -284,4 +286,8 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
