@@ -111,6 +111,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0326-power-of-three) |
@@ -135,6 +136,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0203-remove-linked-list-elements) |
@@ -176,6 +178,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0025-reverse-nodes-in-k-group) |
