@@ -67,6 +67,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1108-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3174-clear-digits](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3174-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0234-palindrome-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3174-clear-digits](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -81,6 +83,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3174-clear-digits](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
