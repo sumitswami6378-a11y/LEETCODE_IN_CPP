@@ -39,6 +39,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3875-construct-uniform-parity-array-i) |
@@ -111,6 +112,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +222,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Heap (Priority Queue)
 |  |
