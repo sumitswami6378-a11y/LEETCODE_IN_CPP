@@ -42,6 +42,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -133,6 +134,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2652-sum-multiples) |
