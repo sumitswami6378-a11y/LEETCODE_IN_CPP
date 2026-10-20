@@ -27,6 +27,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0941-valid-mountain-array) |
@@ -196,6 +197,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0234-palindrome-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -307,4 +309,12 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
