@@ -14,6 +14,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0046-permutations](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -103,6 +104,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
@@ -180,6 +182,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0217-contains-duplicate) |
