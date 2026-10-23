@@ -69,6 +69,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1108-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -189,6 +190,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -268,6 +270,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
@@ -330,5 +333,6 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
