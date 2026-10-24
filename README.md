@@ -31,6 +31,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
@@ -87,6 +88,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1929-concatenation-of-array) |
@@ -108,6 +110,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0054-spiral-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
