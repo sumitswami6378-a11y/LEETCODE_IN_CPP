@@ -81,6 +81,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -334,11 +335,13 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0155-min-stack](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
