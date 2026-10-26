@@ -30,6 +30,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0442-find-all-duplicates-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0641-design-circular-deque) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
@@ -221,6 +222,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0237-delete-node-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0641-design-circular-deque) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -341,6 +343,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0225-implement-stack-using-queues](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
@@ -348,6 +351,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0232-implement-queue-using-stacks](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0641-design-circular-deque) |
 ## Tree
 |  |
 | ------- |
