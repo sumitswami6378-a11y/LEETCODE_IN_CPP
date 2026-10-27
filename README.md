@@ -38,6 +38,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1480-running-sum-of-1d-array) |
@@ -204,6 +205,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0442-find-all-duplicates-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
@@ -249,6 +251,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -283,6 +286,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Backtracking
 |  |
 | ------- |
