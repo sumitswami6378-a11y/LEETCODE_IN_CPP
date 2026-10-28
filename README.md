@@ -42,6 +42,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1480-running-sum-of-1d-array) |
+| [1670-design-front-middle-back-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1670-design-front-middle-back-queue) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -225,6 +226,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0328-odd-even-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0641-design-circular-deque) |
+| [1670-design-front-middle-back-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -348,6 +350,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0232-implement-queue-using-stacks](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0641-design-circular-deque) |
+| [1670-design-front-middle-back-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
@@ -356,6 +359,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0641-design-circular-deque) |
+| [1670-design-front-middle-back-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1670-design-front-middle-back-queue) |
 ## Tree
 |  |
 | ------- |
@@ -371,4 +375,12 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
