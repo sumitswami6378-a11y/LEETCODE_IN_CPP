@@ -371,17 +371,20 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -399,4 +402,8 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0102-binary-tree-level-order-traversal) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
