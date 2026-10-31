@@ -110,6 +110,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0136-single-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
@@ -131,6 +132,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0074-search-a-2d-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0441-arranging-coins) |
@@ -371,6 +373,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -384,6 +387,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
