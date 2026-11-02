@@ -75,6 +75,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1108-defanging-an-ip-address) |
@@ -301,6 +302,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 ## Number Theory
 |  |
 | ------- |
@@ -378,6 +380,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -387,6 +390,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0110-balanced-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -398,6 +402,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
