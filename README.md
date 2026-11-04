@@ -384,6 +384,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0226-invert-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -395,6 +396,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0226-invert-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -409,6 +411,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0226-invert-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0993-cousins-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -429,6 +432,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0226-invert-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
