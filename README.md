@@ -31,6 +31,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0496-next-greater-element-i](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0641-design-circular-deque) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -65,6 +66,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0148-sort-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -138,6 +140,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0441-arranging-coins) |
+| [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
@@ -258,6 +261,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0217-contains-duplicate](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
@@ -344,6 +348,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
 ## Quickselect
 |  |
 | ------- |
