@@ -392,6 +392,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -406,6 +407,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,6 +425,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -446,6 +449,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0199-binary-tree-right-side-view](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0226-invert-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0993-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
