@@ -178,6 +178,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0234-palindrome-linked-list) |
@@ -226,6 +227,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0002-add-two-numbers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0092-reverse-linked-list-ii) |
