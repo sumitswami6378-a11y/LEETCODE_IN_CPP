@@ -79,6 +79,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0520-detect-capital) |
@@ -106,6 +107,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -115,6 +117,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
@@ -151,6 +154,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0342-power-of-four) |
