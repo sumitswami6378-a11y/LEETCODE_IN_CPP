@@ -78,6 +78,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0067-add-binary) |
@@ -217,6 +218,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
@@ -473,4 +475,8 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
