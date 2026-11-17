@@ -55,6 +55,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2404-most-frequent-even-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -240,6 +241,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2404-most-frequent-even-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2404-most-frequent-even-element) |
 ## Linked List
 |  |
 | ------- |
@@ -334,6 +336,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2404-most-frequent-even-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2404-most-frequent-even-element) |
 ## Backtracking
 |  |
 | ------- |
