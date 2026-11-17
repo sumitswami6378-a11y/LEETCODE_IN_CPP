@@ -26,6 +26,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0169-majority-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
@@ -229,6 +230,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0389-find-the-difference) |
@@ -282,6 +284,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0169-majority-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0414-third-maximum-number) |
@@ -327,6 +330,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -498,4 +502,5 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
