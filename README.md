@@ -72,6 +72,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0141-linked-list-cycle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
@@ -164,6 +165,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0002-add-two-numbers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0342-power-of-four) |
@@ -230,6 +232,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0141-linked-list-cycle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
@@ -272,6 +275,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
