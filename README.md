@@ -166,6 +166,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0048-rotate-image](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0342-power-of-four) |
