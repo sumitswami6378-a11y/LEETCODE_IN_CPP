@@ -181,6 +181,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [2119-a-number-after-a-double-reversal](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -353,20 +354,24 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1952-three-divisors](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prime Factorization
 |  |
