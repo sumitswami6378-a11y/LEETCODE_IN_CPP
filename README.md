@@ -60,6 +60,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
