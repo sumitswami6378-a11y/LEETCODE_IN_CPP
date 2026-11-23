@@ -53,6 +53,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1480-running-sum-of-1d-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1670-design-front-middle-back-queue](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1670-design-front-middle-back-queue) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1929-concatenation-of-array) |
@@ -168,6 +169,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0441-arranging-coins](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
@@ -314,6 +316,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2733-neither-minimum-nor-maximum) |
