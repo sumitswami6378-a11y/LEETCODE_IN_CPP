@@ -94,6 +94,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
