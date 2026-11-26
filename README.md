@@ -34,6 +34,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0260-single-number-iii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0496-next-greater-element-i) |
@@ -84,6 +85,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0202-happy-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -170,6 +172,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0222-count-complete-tree-nodes](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -256,6 +259,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0217-contains-duplicate](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -314,6 +318,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0217-contains-duplicate](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0442-find-all-duplicates-in-an-array) |
