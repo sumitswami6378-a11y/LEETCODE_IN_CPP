@@ -63,6 +63,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2540-minimum-common-value](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2540-minimum-common-value) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -92,6 +93,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -178,6 +180,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +272,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2404-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
