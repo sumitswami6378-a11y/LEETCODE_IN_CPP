@@ -133,6 +133,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1929-concatenation-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3174-clear-digits](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,6 +202,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [2469-convert-the-temperature](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2652-sum-multiples) |
+| [3360-stone-removal-game](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3360-stone-removal-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
