@@ -62,6 +62,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1929-concatenation-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -122,6 +123,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1071-greatest-common-divisor-of-strings](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1108-defanging-an-ip-address) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3174-clear-digits](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/3174-clear-digits) |
 ## Stack
 |  |
@@ -287,6 +289,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0560-subarray-sum-equals-k](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2404-most-frequent-even-element) |
@@ -395,6 +398,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0387-first-unique-character-in-a-string](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2404-most-frequent-even-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2404-most-frequent-even-element) |
 ## Backtracking
 |  |
