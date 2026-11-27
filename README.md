@@ -66,6 +66,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -357,6 +358,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/2733-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
