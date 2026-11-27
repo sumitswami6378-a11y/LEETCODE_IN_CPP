@@ -47,6 +47,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -94,6 +95,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0349-intersection-of-two-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -344,6 +346,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0611-valid-triangle-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
