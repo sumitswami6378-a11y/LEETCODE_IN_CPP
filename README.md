@@ -303,6 +303,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | [0002-add-two-numbers](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0061-rotate-list) |
@@ -370,6 +371,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -377,6 +379,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0215-kth-largest-element-in-an-array) |
@@ -384,6 +387,7 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -581,4 +585,8 @@ My journey of solving LeetCode problems in C++, focusing on Data Structures, Alg
 | ------- |
 | [0169-majority-element](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0229-majority-element-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sumitswami6378-a11y/LEETCODE_IN_CPP/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
